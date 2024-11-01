@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": "201e",
+      "FirstName": "bibek",
+      "LastName": "mohanty",
+      "Class": "12",
+      "Gender": "male",
+      "Email": "bibek@student.com",
+      "Password": "Sai@1234"
+    },
+    {
+      "id": "13b7",
+      "FirstName": "ayush",
+      "LastName": "kumar",
+      "Class": "12",
+      "Gender": "Male",
+      "Email": "ayush@student.com",
+      "Password": "Sai@1234"
+    }
+  ]
+}
